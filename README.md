@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Olajide 👋  
+**Cybersecurity | Cloud | DevOps Enthusiast**
 
-<!--
-**OlajideSnazzy/OlajideSnazzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring the intersection of cybersecurity and cloud technologies, currently gaining hands-on experience through real-world AWS projects and learning Python for automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Cybersecurity:** Threat analysis, network defense, security monitoring  
+- **Cloud:** AWS (EC2, S3, IAM, VPC), cloud architecture fundamentals  
+- **Linux:** Shell scripting, system navigation, file permissions  
+- **Languages:** Python, Bash
+
+---
+
+## 💻 Tech Stack
+`AWS` `Python` `Linux` `GitHub Actions`
+
+---
+
+## 🤝 Open to Collaborate
+Let’s build tools and automations that make the cloud simple and secure. Feel free to connect or open an issue!
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jideoyetoro/)
+- [Twitter (X)](https://x.com/OlajideSnazzy)
+
