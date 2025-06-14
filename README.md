@@ -31,9 +31,3 @@ Let’s build tools and automations that make the cloud simple and secure. Feel 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jideoyetoro/)
 - [Twitter (X)](https://x.com/OlajideSnazzy)
-
----
-
-![Olajide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olajidesnazzy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olajidesnazzy&layout=compact&theme=radical)
