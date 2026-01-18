@@ -1,5 +1,5 @@
 # Hi, I'm Olajide 👋  
-**Cybersecurity | Cloud | DevOps Enthusiast**
+**Cybersecurity | Cloud**
 
 I'm exploring the intersection of cybersecurity and cloud technologies. Currently gaining hands-on experience through real-world AWS projects.
 
