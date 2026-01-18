@@ -8,7 +8,7 @@ I'm exploring the intersection of cybersecurity and cloud technologies. Currentl
 ## 🔧 Skills
 - **Cybersecurity:** Threat analysis, network defense, security monitoring  
 - **Cloud:** AWS (EC2, S3, IAM, VPC), cloud architecture fundamentals  
-- **Linux:** Shell scripting, system navigation, file permissions  
+- **Linux:** System navigation, file permissions  
 - **Languages:** Python, Bash
 
 ---
